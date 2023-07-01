@@ -1,0 +1,4 @@
+.nav-item:hover > .dropdown-menu {
+  display: block;
+  transition: ease 2s;
+}
